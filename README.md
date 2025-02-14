@@ -2,11 +2,16 @@
 
 ## Summary
 
-Short summary on functionality and used technologies.
+This approach is for Modern SharePoint Framework as Microsoft renamed Office UI Fabric to Fluent UI in early 2020 as per Microsoft.
 
-[picture of the solution in action, if possible]
+
+[picture of th![EmployeeExperienceChart](https://github.com/user-attachments/assets/0797fd73-e61f-4cf7-ac38-b577a4b71d79)
+e solution in action, if possible]
 
 ## Used SharePoint Framework Version
+SharePoint Framework Yeoman generator
+5.0.0
+SPFx tools globally @microsoft/generator-sharepoint@1.20.0-beta.0
 
 ![version](https://img.shields.io/badge/version-1.20.0--beta.0-yellow.svg)
 
