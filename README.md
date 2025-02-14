@@ -5,8 +5,8 @@
 This approach is for Modern SharePoint Framework as Microsoft renamed Office UI Fabric to Fluent UI in early 2020 as per Microsoft.
 
 
-[picture of th![EmployeeExperienceChart](https://github.com/user-attachments/assets/0797fd73-e61f-4cf7-ac38-b577a4b71d79)
-e solution in action, if possible]
+[Microsoft 365 - SharePoint Online![EmployeeExperienceChart](https://github.com/user-attachments/assets/0797fd73-e61f-4cf7-ac38-b577a4b71d79)
+]
 
 ## Used SharePoint Framework Version
 SharePoint Framework Yeoman generator
