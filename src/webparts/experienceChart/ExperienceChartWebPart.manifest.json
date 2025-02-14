@@ -10,7 +10,7 @@
       "groupId": "webpart-group-id",
       "group": { "default": "Other" },
       "title": { "default": "Employee Experience Chart" },
-      "description": { "default": "Displays employee experience by company in a pie chart." },
+      "description": { "default": "Displays employee experience by company in a  chart." },
       "officeFabricIconFontName": "Page",
       "properties": {
         "siteUrl": ""
