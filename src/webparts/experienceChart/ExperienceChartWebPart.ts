@@ -12,13 +12,13 @@ export interface IExperienceChartWebPartProps {
 export default class ExperienceChartWebPart extends BaseClientSideWebPart<IExperienceChartWebPartProps> {
 
   public render(): void {
-    // Create the React element and pass the necessary props (siteUrl, spHttpClient)
+    // props (siteUrl, spHttpClient)
     const element: React.ReactElement<IExperienceChartWebPartProps> = React.createElement(ExperienceChart, {
       siteUrl: this.context.pageContext.web.absoluteUrl,  // Current site URL
-      spHttpClient: this.context.spHttpClient  // SPHttpClient is passed correctly
+      spHttpClient: this.context.spHttpClient  // SPHttpClient
     });
 
-    // Render the React element into the web part's DOM element
+    // Render  web part's DOM element
     ReactDom.render(element, this.domElement);
   }
 }
