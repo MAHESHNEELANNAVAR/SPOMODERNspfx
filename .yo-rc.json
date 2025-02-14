@@ -1,0 +1,21 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": true,
+    "isCreatingSolution": true,
+    "nodeVersion": "18.20.4",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.24.0"
+    },
+    "version": "1.20.0-beta.0",
+    "libraryName": "employee-experience-chart",
+    "libraryId": "04e3764d-cb51-48ef-ba5f-7eec8dd4c8eb",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "EmployeeExperienceChart",
+    "solutionShortDescription": "EmployeeExperienceChart description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
