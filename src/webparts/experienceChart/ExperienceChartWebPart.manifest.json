@@ -1,0 +1,23 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx/webpart-manifest.schema.json",
+  "id": "experience-chart-id",
+  "alias": "ExperienceChart",
+  "componentType": "WebPart",
+  "version": "1.0.0",
+  "manifestVersion": 2,
+  "preconfiguredEntries": [
+    {
+      "groupId": "webpart-group-id",
+      "group": { "default": "Other" },
+      "title": { "default": "Employee Experience Chart" },
+      "description": { "default": "Displays employee experience by company in a  chart." },
+      "officeFabricIconFontName": "Page",
+      "properties": {
+        "siteUrl": ""
+      }
+    }
+  ]
+}
+
+
+

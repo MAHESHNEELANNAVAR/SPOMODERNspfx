@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "employee-experience-chart-client-side-solution",
+    "id": "04e3764d-cb51-48ef-ba5f-7eec8dd4c8eb",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.20.0-beta.0"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "EmployeeExperienceChart description"
+      },
+      "longDescription": {
+        "default": "EmployeeExperienceChart description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "employee-experience-chart Feature",
+        "description": "The feature that activates elements of the employee-experience-chart solution.",
+        "id": "ed2d26cf-a770-441f-8187-84b5ef626a4c",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/employee-experience-chart.sppkg"
+  }
+}
