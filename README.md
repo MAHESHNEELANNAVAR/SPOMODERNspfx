@@ -35,7 +35,7 @@ SPFx tools globally @microsoft/generator-sharepoint@1.20.0-beta.0
 
 | Version | Date             | Comments        |
 | ------- | ---------------- | --------------- |
-| 1.1     | Feb 15, 2025   | Update comment  |
+| 1.2     | Feb 15, 2025   | Update comment  |
 | 1.1     | March 10, 2021   | Update comment  |
 | 1.0     | January 29, 2021 | Initial release |
 
